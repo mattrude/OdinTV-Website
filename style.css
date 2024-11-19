@@ -1,0 +1,15 @@
+a, a:visited, a:active {text-decoration: none; color: #3076b1;}
+a:hover, a:focus {text-decoration: underline; color: red;}
+body { font-size: 16px; max-width: 1024px; min-width: 350px; text-align: center; padding: 0 30px; margin: auto; background-color: #F5F5F5;}
+table {margin-left: 12px; width: 100%;}
+th, td { font: 90% monospace; text-align: left;}
+th { font-weight: bold; padding-right: 14px; padding-bottom: 3px;}
+td {padding-right: 14px;}
+td.s, th.s {text-align: right;}
+td.t, th.t {display: none;}
+div.list { background-color: white; border-top: 1px solid #646464; border-bottom: 1px solid #646464; padding-top: 10px; padding-bottom: 14px;}
+div.foot { font: 90% monospace; color: #787878; padding-top: 4px;}
+pre { text-align: initial; }
+hr { margin-top: 20px; margin-bottom: 20px; border: 0; border-top: 1px solid #bbb; height: 0; }
+svg { fill: #3076b1; padding-top: 30px; }
+a { color: #3076b1; text-decoration: none; }
